@@ -1,7 +1,20 @@
 .pixel {
   border: 1px solid black;
-  height: 50px;
-  width: 50px;
+  height: 30px;
+  width: 30px;
+}
+
+.color-palette {
+  border: 1px solid black;
+  height: 30px;
+  width: 30px;  
+}
+
+.selected-pixel {
+  border: 3px solid black;
+  height: 30px;
+  width: 32px;
+  padding: 0px 0px;
 }
 
 .row {
@@ -12,4 +25,100 @@
 .left {
   margin-left: auto;
   margin-right: auto;
+}
+
+#one {
+  background-color: #000000;
+}
+
+#two {
+  background-color: #ffffff
+}
+
+#three {
+  background-color: #606060
+}
+
+#four {
+  background-color: #B4674D
+}
+
+#five {
+  background-color: #FFA9CC
+}
+
+#six {
+  background-color: #F75294
+}
+
+#seven {
+  background-color: #EE204E
+}
+
+#eight {
+  background-color: #FF2B2A
+}
+
+#nine {
+  background-color: #FF5349
+}
+
+#ten {
+  background-color: #FF7537
+}
+
+#eleven {
+  background-color: #FFAE42
+}
+
+#twelve {
+  background-color: #F7D569
+}
+
+#thirteen {
+  background-color: #FBE882
+}
+
+#fourteen {
+  background-color: #EFE890
+}
+
+#fifteen {
+  background-color: #C5E285
+}
+
+#sixteen {
+  background-color: #1CAC77
+}
+
+#seventeen {
+  background-color: #0D98B9
+}
+
+#eighteen {
+  background-color: #1164B4
+}
+
+#nineteen {
+  background-color: #1F75FE
+}
+
+#twenty {
+  background-color: #334AB2
+}
+
+#twentyone {
+  background-color: #7367BD
+}
+
+#twentytwo {
+  background-color: #926EAE
+}
+
+#twentythree {
+  background-color: #C14490
+}
+
+#twentyfour {
+  background-color: #FDD9B5
 }
