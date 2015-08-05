@@ -26,6 +26,10 @@
   margin-top: 75px;
 }
 
+input {
+  border-radius: 3px;
+}
+
 #submit-button {
   padding: 30px 50px;
 }
