@@ -31,11 +31,14 @@ input {
 }
 
 #submit-button {
-  padding: 30px 50px;
+  width: 200px;
+  height: 70px;
+  
 }
 
 #color-picker {
-  padding: 30px 50px;
+  width: 200px;
+  height: 70px;
 }
 
 .left {

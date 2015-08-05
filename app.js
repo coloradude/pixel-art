@@ -13,6 +13,6 @@ $(document).ready(function() {
   $('.color-palette').click(function() {
     var newColor = $(this).css('background-color');
     $('.selected-pixel').css('background-color', newColor);
-    $('.selected-pixel').removeClass('selected-pixel')
+    $('.selected-pixel').removeClass('selected-pixel');
   });
 });
